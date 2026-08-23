@@ -1,0 +1,3 @@
+drivers/net/mctp/mctp-serial.o
+drivers/net/mctp/mctp-i3c.o
+drivers/net/mctp/mctp-usb.o

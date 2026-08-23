@@ -1,0 +1,8 @@
+drivers/gpu/drm/amd/amdgpu/../display/amdgpu_dm/tests/amdgpu_dm_crc_test.o
+drivers/gpu/drm/amd/amdgpu/../display/amdgpu_dm/tests/amdgpu_dm_hdcp_test.o
+drivers/gpu/drm/amd/amdgpu/../display/amdgpu_dm/tests/amdgpu_dm_color_test.o
+drivers/gpu/drm/amd/amdgpu/../display/amdgpu_dm/tests/amdgpu_dm_colorop_test.o
+drivers/gpu/drm/amd/amdgpu/../display/amdgpu_dm/tests/amdgpu_dm_psr_test.o
+drivers/gpu/drm/amd/amdgpu/../display/amdgpu_dm/tests/amdgpu_dm_replay_test.o
+drivers/gpu/drm/amd/amdgpu/../display/amdgpu_dm/tests/amdgpu_dm_ism_test.o
+drivers/gpu/drm/amd/amdgpu/amdgpu.o

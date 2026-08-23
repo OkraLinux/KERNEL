@@ -1,0 +1,2 @@
+drivers/pcmcia/yenta_socket.o
+drivers/pcmcia/pd6729.o

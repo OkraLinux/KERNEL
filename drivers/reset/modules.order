@@ -1,0 +1,2 @@
+drivers/reset/reset-gpio.o
+drivers/reset/reset-tps380x.o

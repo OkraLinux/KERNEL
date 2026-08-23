@@ -1,0 +1,4 @@
+lib/crc/tests/crc_kunit.o
+lib/crc/crc7.o
+lib/crc/crc8.o
+lib/crc/crc-itu-t.o

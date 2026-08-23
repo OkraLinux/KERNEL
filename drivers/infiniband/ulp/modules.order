@@ -1,0 +1,8 @@
+drivers/infiniband/ulp/ipoib/ib_ipoib.o
+drivers/infiniband/ulp/srp/ib_srp.o
+drivers/infiniband/ulp/srpt/ib_srpt.o
+drivers/infiniband/ulp/iser/ib_iser.o
+drivers/infiniband/ulp/isert/ib_isert.o
+drivers/infiniband/ulp/rtrs/rtrs-core.o
+drivers/infiniband/ulp/rtrs/rtrs-client.o
+drivers/infiniband/ulp/rtrs/rtrs-server.o

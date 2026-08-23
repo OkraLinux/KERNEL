@@ -1,0 +1,9 @@
+drivers/firewire/firewire-core.o
+drivers/firewire/firewire-ohci.o
+drivers/firewire/firewire-sbp2.o
+drivers/firewire/firewire-net.o
+drivers/firewire/nosy.o
+drivers/firewire/uapi-test.o
+drivers/firewire/packet-serdes-test.o
+drivers/firewire/self-id-sequence-helper-test.o
+drivers/firewire/ohci-serdes-test.o

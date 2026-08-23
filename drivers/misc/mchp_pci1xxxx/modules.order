@@ -1,0 +1,3 @@
+drivers/misc/mchp_pci1xxxx/mchp_pci1xxxx_gp.o
+drivers/misc/mchp_pci1xxxx/mchp_pci1xxxx_gpio.o
+drivers/misc/mchp_pci1xxxx/mchp_pci1xxxx_otpe2p.o

@@ -1,0 +1,3 @@
+drivers/hid/intel-thc-hid/intel-thc.o
+drivers/hid/intel-thc-hid/intel-quickspi.o
+drivers/hid/intel-thc-hid/intel-quicki2c.o

@@ -1,0 +1,3 @@
+drivers/platform/x86/amd/hsmp/hsmp_common.o
+drivers/platform/x86/amd/hsmp/amd_hsmp.o
+drivers/platform/x86/amd/hsmp/hsmp_acpi.o

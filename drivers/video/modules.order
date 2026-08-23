@@ -1,0 +1,12 @@
+drivers/video/backlight/lcd.o
+drivers/video/backlight/platform_lcd.o
+drivers/video/backlight/apple_bl.o
+drivers/video/backlight/aw99706.o
+drivers/video/backlight/ktd253-backlight.o
+drivers/video/backlight/ktz8866.o
+drivers/video/backlight/lm3509_bl.o
+drivers/video/backlight/lp855x_bl.o
+drivers/video/backlight/mp3309c.o
+drivers/video/backlight/pwm_bl.o
+drivers/video/backlight/rt4831-backlight.o
+drivers/video/backlight/arcxcnn_bl.o

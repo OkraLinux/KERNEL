@@ -1,0 +1,5 @@
+drivers/virt/coco/tdx-guest/tdx-guest.o
+drivers/virt/coco/tdx-host/tdx-host.o
+drivers/virt/coco/guest/tsm_report.o
+drivers/virt/coco/efi_secret/efi_secret.o
+drivers/virt/coco/sev-guest/sev-guest.o

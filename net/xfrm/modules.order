@@ -1,0 +1,3 @@
+net/xfrm/xfrm_ipcomp.o
+net/xfrm/xfrm_interface.o
+net/xfrm/xfrm_iptfs.o

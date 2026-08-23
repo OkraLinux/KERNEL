@@ -1,0 +1,4 @@
+drivers/accel/amdxdna/amdxdna.o
+drivers/accel/habanalabs/habanalabs.o
+drivers/accel/ivpu/intel_vpu.o
+drivers/accel/qaic/qaic.o

@@ -1,0 +1,6 @@
+drivers/gpu/drm/sitronix/st7571.o
+drivers/gpu/drm/sitronix/st7571-i2c.o
+drivers/gpu/drm/sitronix/st7571-spi.o
+drivers/gpu/drm/sitronix/st7586.o
+drivers/gpu/drm/sitronix/st7735r.o
+drivers/gpu/drm/sitronix/st7920.o

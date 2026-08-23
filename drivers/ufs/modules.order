@@ -1,0 +1,4 @@
+drivers/ufs/core/ufshcd-core.o
+drivers/ufs/host/cdns-pltfrm.o
+drivers/ufs/host/ufshcd-pci.o
+drivers/ufs/host/ufshcd-pltfrm.o

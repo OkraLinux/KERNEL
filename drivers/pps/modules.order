@@ -1,0 +1,5 @@
+drivers/pps/clients/pps-ldisc.o
+drivers/pps/clients/pps_parport.o
+drivers/pps/clients/pps-gpio.o
+drivers/pps/generators/pps_gen_core.o
+drivers/pps/generators/pps_gen_tio.o

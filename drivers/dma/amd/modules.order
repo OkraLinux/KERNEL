@@ -1,0 +1,3 @@
+drivers/dma/amd/ae4dma/ae4dma.o
+drivers/dma/amd/ptdma/ptdma.o
+drivers/dma/amd/qdma/amd-qdma.o

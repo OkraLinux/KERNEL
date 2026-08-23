@@ -1,0 +1,2 @@
+drivers/mtd/ubi/ubi.o
+drivers/mtd/ubi/nvmem.o

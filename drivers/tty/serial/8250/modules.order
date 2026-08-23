@@ -1,0 +1,4 @@
+drivers/tty/serial/8250/8250_dfl.o
+drivers/tty/serial/8250/8250_exar.o
+drivers/tty/serial/8250/8250_lpss.o
+drivers/tty/serial/8250/serial_cs.o

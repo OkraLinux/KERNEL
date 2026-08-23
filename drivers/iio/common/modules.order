@@ -1,0 +1,10 @@
+drivers/iio/common/cros_ec_sensors/cros-ec-sensors-core.o
+drivers/iio/common/cros_ec_sensors/cros_ec_sensors.o
+drivers/iio/common/cros_ec_sensors/cros_ec_lid_angle.o
+drivers/iio/common/cros_ec_sensors/cros_ec_activity.o
+drivers/iio/common/hid-sensors/hid-sensor-iio-common.o
+drivers/iio/common/hid-sensors/hid-sensor-trigger.o
+drivers/iio/common/inv_sensors/inv_sensors_timestamp.o
+drivers/iio/common/st_sensors/st_sensors_i2c.o
+drivers/iio/common/st_sensors/st_sensors_spi.o
+drivers/iio/common/st_sensors/st_sensors.o

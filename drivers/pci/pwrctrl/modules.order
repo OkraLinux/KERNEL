@@ -1,0 +1,3 @@
+drivers/pci/pwrctrl/pci-pwrctrl-core.o
+drivers/pci/pwrctrl/pci-pwrctrl-generic.o
+drivers/pci/pwrctrl/pci-pwrctrl-tc9563.o

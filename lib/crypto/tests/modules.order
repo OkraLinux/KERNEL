@@ -1,0 +1,16 @@
+lib/crypto/tests/aes_cbc_macs_kunit.o
+lib/crypto/tests/blake2b_kunit.o
+lib/crypto/tests/blake2s_kunit.o
+lib/crypto/tests/chacha20poly1305_kunit.o
+lib/crypto/tests/curve25519_kunit.o
+lib/crypto/tests/ghash_kunit.o
+lib/crypto/tests/md5_kunit.o
+lib/crypto/tests/nh_kunit.o
+lib/crypto/tests/poly1305_kunit.o
+lib/crypto/tests/polyval_kunit.o
+lib/crypto/tests/sha1_kunit.o
+lib/crypto/tests/sha224_kunit.o
+lib/crypto/tests/sha256_kunit.o
+lib/crypto/tests/sha384_kunit.o
+lib/crypto/tests/sha512_kunit.o
+lib/crypto/tests/sha3_kunit.o

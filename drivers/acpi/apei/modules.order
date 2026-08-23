@@ -1,0 +1,2 @@
+drivers/acpi/apei/einj.o
+drivers/acpi/apei/ghes-nvidia.o

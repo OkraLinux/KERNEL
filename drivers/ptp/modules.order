@@ -1,0 +1,8 @@
+drivers/ptp/ptp_kvm.o
+drivers/ptp/ptp_vmclock.o
+drivers/ptp/ptp_clockmatrix.o
+drivers/ptp/ptp_fc3.o
+drivers/ptp/ptp_idt82p33.o
+drivers/ptp/ptp_mock.o
+drivers/ptp/ptp_vmw.o
+drivers/ptp/ptp_dfl_tod.o

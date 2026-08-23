@@ -1,0 +1,7 @@
+drivers/vfio/pci/vfio-pci-core.o
+drivers/vfio/pci/vfio-pci.o
+drivers/vfio/pci/mlx5/mlx5-vfio-pci.o
+drivers/vfio/pci/pds/pds-vfio-pci.o
+drivers/vfio/pci/virtio/virtio-vfio-pci.o
+drivers/vfio/pci/qat/qat_vfio_pci.o
+drivers/vfio/pci/xe/xe-vfio-pci.o

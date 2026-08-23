@@ -1,0 +1,6 @@
+drivers/platform/mellanox/mlx-platform.o
+drivers/platform/mellanox/mlxreg-dpu.o
+drivers/platform/mellanox/mlxreg-hotplug.o
+drivers/platform/mellanox/mlxreg-io.o
+drivers/platform/mellanox/mlxreg-lc.o
+drivers/platform/mellanox/nvsw-sn2201.o

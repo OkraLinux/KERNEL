@@ -1,0 +1,13 @@
+drivers/platform/surface/surface3-wmi.o
+drivers/platform/surface/surface3_power.o
+drivers/platform/surface/surface_acpi_notify.o
+drivers/platform/surface/aggregator/surface_aggregator.o
+drivers/platform/surface/surface_aggregator_cdev.o
+drivers/platform/surface/surface_aggregator_hub.o
+drivers/platform/surface/surface_aggregator_registry.o
+drivers/platform/surface/surface_aggregator_tabletsw.o
+drivers/platform/surface/surface_dtx.o
+drivers/platform/surface/surface_gpe.o
+drivers/platform/surface/surface_hotplug.o
+drivers/platform/surface/surface_platform_profile.o
+drivers/platform/surface/surfacepro3_button.o

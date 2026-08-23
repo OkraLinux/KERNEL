@@ -1,0 +1,3 @@
+drivers/hid/surface-hid/surface_hid_core.o
+drivers/hid/surface-hid/surface_hid.o
+drivers/hid/surface-hid/surface_kbd.o

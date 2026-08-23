@@ -1,0 +1,4 @@
+drivers/net/ethernet/stmicro/stmmac/stmmac.o
+drivers/net/ethernet/stmicro/stmmac/stmmac_libpci.o
+drivers/net/ethernet/stmicro/stmmac/dwmac-intel.o
+drivers/net/ethernet/stmicro/stmmac/dwmac-motorcomm.o

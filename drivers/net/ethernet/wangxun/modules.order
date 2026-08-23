@@ -1,0 +1,5 @@
+drivers/net/ethernet/wangxun/libwx/libwx.o
+drivers/net/ethernet/wangxun/txgbe/txgbe.o
+drivers/net/ethernet/wangxun/txgbevf/txgbevf.o
+drivers/net/ethernet/wangxun/ngbe/ngbe.o
+drivers/net/ethernet/wangxun/ngbevf/ngbevf.o

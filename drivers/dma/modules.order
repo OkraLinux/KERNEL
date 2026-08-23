@@ -1,0 +1,12 @@
+drivers/dma/dw/dw_dmac.o
+drivers/dma/idxd/idxd_bus.o
+drivers/dma/idxd/idxd.o
+drivers/dma/amd/ae4dma/ae4dma.o
+drivers/dma/amd/ptdma/ptdma.o
+drivers/dma/amd/qdma/amd-qdma.o
+drivers/dma/xilinx/xdma.o
+drivers/dma/altera-msgdma.o
+drivers/dma/dw-edma/dw-edma.o
+drivers/dma/dw-edma/dw-edma-pcie.o
+drivers/dma/idma64.o
+drivers/dma/ioat/ioatdma.o

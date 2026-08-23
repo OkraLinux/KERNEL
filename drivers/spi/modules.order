@@ -1,0 +1,17 @@
+drivers/spi/spi-mux.o
+drivers/spi/spidev.o
+drivers/spi/spi-altera-core.o
+drivers/spi/spi-altera-dfl.o
+drivers/spi/spi-ch341.o
+drivers/spi/spi-cs42l43.o
+drivers/spi/spi-dln2.o
+drivers/spi/spi-intel.o
+drivers/spi/spi-intel-pci.o
+drivers/spi/spi-ljca.o
+drivers/spi/spi-microchip-core-qspi.o
+drivers/spi/spi-pci1xxxx.o
+drivers/spi/spi-pxa2xx-core.o
+drivers/spi/spi-pxa2xx-platform.o
+drivers/spi/spi-pxa2xx-pci.o
+drivers/spi/spi-virtio.o
+drivers/spi/spi-offload-trigger-pwm.o

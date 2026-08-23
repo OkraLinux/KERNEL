@@ -1,0 +1,7 @@
+drivers/platform/x86/amd/amd_3d_vcache.o
+drivers/platform/x86/amd/pmc/amd-pmc.o
+drivers/platform/x86/amd/hsmp/hsmp_common.o
+drivers/platform/x86/amd/hsmp/amd_hsmp.o
+drivers/platform/x86/amd/hsmp/hsmp_acpi.o
+drivers/platform/x86/amd/pmf/amd-pmf.o
+drivers/platform/x86/amd/amd_isp4.o

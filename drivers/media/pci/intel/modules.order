@@ -1,0 +1,6 @@
+drivers/media/pci/intel/ipu3/ipu3-cio2.o
+drivers/media/pci/intel/ivsc/ivsc-csi.o
+drivers/media/pci/intel/ivsc/ivsc-ace.o
+drivers/media/pci/intel/ipu-bridge.o
+drivers/media/pci/intel/ipu6/intel-ipu6.o
+drivers/media/pci/intel/ipu6/intel-ipu6-isys.o

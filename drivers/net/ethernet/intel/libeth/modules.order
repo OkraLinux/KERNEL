@@ -1,0 +1,2 @@
+drivers/net/ethernet/intel/libeth/libeth.o
+drivers/net/ethernet/intel/libeth/libeth_xdp.o

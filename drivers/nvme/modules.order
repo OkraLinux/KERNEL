@@ -1,0 +1,15 @@
+drivers/nvme/common/nvme-auth.o
+drivers/nvme/common/nvme-keyring.o
+drivers/nvme/common/tests/auth_kunit.o
+drivers/nvme/host/nvme-core.o
+drivers/nvme/host/nvme.o
+drivers/nvme/host/nvme-fabrics.o
+drivers/nvme/host/nvme-rdma.o
+drivers/nvme/host/nvme-fc.o
+drivers/nvme/host/nvme-tcp.o
+drivers/nvme/target/nvmet.o
+drivers/nvme/target/nvme-loop.o
+drivers/nvme/target/nvmet-rdma.o
+drivers/nvme/target/nvmet-fc.o
+drivers/nvme/target/nvme-fcloop.o
+drivers/nvme/target/nvmet-tcp.o

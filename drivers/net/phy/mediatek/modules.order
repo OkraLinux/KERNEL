@@ -1,0 +1,2 @@
+drivers/net/phy/mediatek/mtk-ge.o
+drivers/net/phy/mediatek/mtk-phy-lib.o

@@ -1,0 +1,2 @@
+drivers/pps/generators/pps_gen_core.o
+drivers/pps/generators/pps_gen_tio.o

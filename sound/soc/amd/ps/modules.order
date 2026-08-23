@@ -1,0 +1,4 @@
+sound/soc/amd/ps/snd-pci-ps.o
+sound/soc/amd/ps/snd-ps-pdm-dma.o
+sound/soc/amd/ps/snd-ps-sdw-dma.o
+sound/soc/amd/ps/snd-soc-ps-mach.o

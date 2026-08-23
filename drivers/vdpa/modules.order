@@ -1,0 +1,12 @@
+drivers/vdpa/mlx5/mlx5_vdpa.o
+drivers/vdpa/vdpa.o
+drivers/vdpa/vdpa_sim/vdpa_sim.o
+drivers/vdpa/vdpa_sim/vdpa_sim_net.o
+drivers/vdpa/vdpa_sim/vdpa_sim_blk.o
+drivers/vdpa/vdpa_user/vduse.o
+drivers/vdpa/ifcvf/ifcvf.o
+drivers/vdpa/virtio_pci/vp_vdpa.o
+drivers/vdpa/alibaba/eni_vdpa.o
+drivers/vdpa/solidrun/snet_vdpa.o
+drivers/vdpa/pds/pds_vdpa.o
+drivers/vdpa/octeon_ep/octep_vdpa.o

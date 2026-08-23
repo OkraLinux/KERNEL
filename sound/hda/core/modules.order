@@ -1,0 +1,4 @@
+sound/hda/core/snd-hda-core.o
+sound/hda/core/ext/snd-hda-ext-core.o
+sound/hda/core/snd-intel-dspcfg.o
+sound/hda/core/snd-intel-sdw-acpi.o

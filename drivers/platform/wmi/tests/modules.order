@@ -1,0 +1,2 @@
+drivers/platform/wmi/tests/wmi_marshalling_kunit.o
+drivers/platform/wmi/tests/wmi_string_kunit.o

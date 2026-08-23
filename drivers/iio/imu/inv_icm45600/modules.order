@@ -1,0 +1,4 @@
+drivers/iio/imu/inv_icm45600/inv-icm45600.o
+drivers/iio/imu/inv_icm45600/inv-icm45600-i2c.o
+drivers/iio/imu/inv_icm45600/inv-icm45600-spi.o
+drivers/iio/imu/inv_icm45600/inv-icm45600-i3c.o

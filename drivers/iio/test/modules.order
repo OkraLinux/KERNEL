@@ -1,0 +1,4 @@
+drivers/iio/test/iio-test-rescale.o
+drivers/iio/test/iio-test-format.o
+drivers/iio/test/iio-test-gts.o
+drivers/iio/test/iio-test-multiply.o

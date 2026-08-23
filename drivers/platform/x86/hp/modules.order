@@ -1,0 +1,3 @@
+drivers/platform/x86/hp/hp_accel.o
+drivers/platform/x86/hp/hp-wmi.o
+drivers/platform/x86/hp/hp-bioscfg/hp-bioscfg.o

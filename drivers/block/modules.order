@@ -1,0 +1,15 @@
+drivers/block/rnbd/rnbd-client.o
+drivers/block/rnbd/rnbd-server.o
+drivers/block/floppy.o
+drivers/block/brd.o
+drivers/block/loop.o
+drivers/block/nbd.o
+drivers/block/xen-blkfront.o
+drivers/block/xen-blkback/xen-blkback.o
+drivers/block/drbd/drbd.o
+drivers/block/rbd.o
+drivers/block/mtip32xx/mtip32xx.o
+drivers/block/zram/zram.o
+drivers/block/null_blk/null_blk.o
+drivers/block/ublk_drv.o
+drivers/block/zloop.o

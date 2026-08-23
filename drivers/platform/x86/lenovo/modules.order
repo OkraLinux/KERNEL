@@ -1,0 +1,13 @@
+drivers/platform/x86/lenovo/ideapad-laptop.o
+drivers/platform/x86/lenovo/think-lmi.o
+drivers/platform/x86/lenovo/thinkpad_acpi.o
+drivers/platform/x86/lenovo/lenovo-wmi-hotkey-utilities.o
+drivers/platform/x86/lenovo/lenovo-ymc.o
+drivers/platform/x86/lenovo/lenovo-yogabook.o
+drivers/platform/x86/lenovo/lenovo-yoga-tab2-pro-1380-fastcharger.o
+drivers/platform/x86/lenovo/lenovo-wmi-camera.o
+drivers/platform/x86/lenovo/lenovo-wmi-capdata.o
+drivers/platform/x86/lenovo/lenovo-wmi-events.o
+drivers/platform/x86/lenovo/lenovo-wmi-helpers.o
+drivers/platform/x86/lenovo/lenovo-wmi-gamezone.o
+drivers/platform/x86/lenovo/lenovo-wmi-other.o

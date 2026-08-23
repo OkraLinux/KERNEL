@@ -1,0 +1,3 @@
+drivers/leds/rgb/leds-ktd202x.o
+drivers/leds/rgb/leds-lp5812.o
+drivers/leds/rgb/leds-pwm-multicolor.o

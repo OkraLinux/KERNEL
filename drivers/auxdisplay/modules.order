@@ -1,0 +1,9 @@
+drivers/auxdisplay/cfag12864b.o
+drivers/auxdisplay/cfag12864bfb.o
+drivers/auxdisplay/charlcd.o
+drivers/auxdisplay/hd44780_common.o
+drivers/auxdisplay/hd44780.o
+drivers/auxdisplay/ht16k33.o
+drivers/auxdisplay/ks0108.o
+drivers/auxdisplay/line-display.o
+drivers/auxdisplay/seg-led-gpio.o

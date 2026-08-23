@@ -1,0 +1,4 @@
+drivers/fwctl/fwctl.o
+drivers/fwctl/bnxt/bnxt_fwctl.o
+drivers/fwctl/mlx5/mlx5_fwctl.o
+drivers/fwctl/pds/pds_fwctl.o

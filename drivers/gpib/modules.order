@@ -1,0 +1,11 @@
+drivers/gpib/agilent_82350b/agilent_82350b.o
+drivers/gpib/agilent_82357a/agilent_82357a.o
+drivers/gpib/cb7210/cb7210.o
+drivers/gpib/cec/cec_gpib.o
+drivers/gpib/common/gpib_common.o
+drivers/gpib/ines/ines_gpib.o
+drivers/gpib/lpvo_usb_gpib/lpvo_usb_gpib.o
+drivers/gpib/nec7210/nec7210.o
+drivers/gpib/ni_usb/ni_usb_gpib.o
+drivers/gpib/tms9914/tms9914.o
+drivers/gpib/tnt4882/tnt4882.o

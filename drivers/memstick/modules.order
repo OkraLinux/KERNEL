@@ -1,0 +1,6 @@
+drivers/memstick/core/memstick.o
+drivers/memstick/core/mspro_block.o
+drivers/memstick/host/tifm_ms.o
+drivers/memstick/host/jmb38x_ms.o
+drivers/memstick/host/r592.o
+drivers/memstick/host/rtsx_usb_ms.o

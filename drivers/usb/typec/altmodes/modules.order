@@ -1,0 +1,3 @@
+drivers/usb/typec/altmodes/typec_displayport.o
+drivers/usb/typec/altmodes/typec_nvidia.o
+drivers/usb/typec/altmodes/typec_thunderbolt.o

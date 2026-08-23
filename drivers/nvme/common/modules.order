@@ -1,0 +1,3 @@
+drivers/nvme/common/nvme-auth.o
+drivers/nvme/common/nvme-keyring.o
+drivers/nvme/common/tests/auth_kunit.o

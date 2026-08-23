@@ -1,0 +1,4 @@
+drivers/platform/x86/intel/pmc/intel_pmc_core.o
+drivers/platform/x86/intel/pmc/intel_pmc_core_pltdrv.o
+drivers/platform/x86/intel/pmc/intel_pmc_ssram_telemetry.o
+drivers/platform/x86/intel/pmc/intel_pmc_pwrm_telemetry.o

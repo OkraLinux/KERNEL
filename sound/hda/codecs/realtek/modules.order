@@ -1,0 +1,11 @@
+sound/hda/codecs/realtek/snd-hda-codec-realtek-lib.o
+sound/hda/codecs/realtek/snd-hda-codec-alc260.o
+sound/hda/codecs/realtek/snd-hda-codec-alc262.o
+sound/hda/codecs/realtek/snd-hda-codec-alc268.o
+sound/hda/codecs/realtek/snd-hda-codec-alc269.o
+sound/hda/codecs/realtek/snd-hda-codec-alc662.o
+sound/hda/codecs/realtek/snd-hda-codec-alc680.o
+sound/hda/codecs/realtek/snd-hda-codec-alc861.o
+sound/hda/codecs/realtek/snd-hda-codec-alc861vd.o
+sound/hda/codecs/realtek/snd-hda-codec-alc880.o
+sound/hda/codecs/realtek/snd-hda-codec-alc882.o

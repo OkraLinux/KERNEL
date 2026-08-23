@@ -1,0 +1,3 @@
+mm/kfence/kfence_test.o
+mm/hwpoison-inject.o
+mm/tests/lazy_mmu_mode_kunit.o

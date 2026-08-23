@@ -1,0 +1,4 @@
+drivers/net/phy/qcom/qcom-phy-lib.o
+drivers/net/phy/qcom/at803x.o
+drivers/net/phy/qcom/qca83xx.o
+drivers/net/phy/qcom/qca808x.o

@@ -1,0 +1,13 @@
+arch/x86/crypto/twofish-x86_64.o
+arch/x86/crypto/twofish-x86_64-3way.o
+arch/x86/crypto/twofish-avx-x86_64.o
+arch/x86/crypto/serpent-sse2-x86_64.o
+arch/x86/crypto/serpent-avx-x86_64.o
+arch/x86/crypto/serpent-avx2.o
+arch/x86/crypto/camellia-x86_64.o
+arch/x86/crypto/camellia-aesni-avx-x86_64.o
+arch/x86/crypto/camellia-aesni-avx2.o
+arch/x86/crypto/blowfish-x86_64.o
+arch/x86/crypto/cast5-avx-x86_64.o
+arch/x86/crypto/cast6-avx-x86_64.o
+arch/x86/crypto/aegis128-aesni.o

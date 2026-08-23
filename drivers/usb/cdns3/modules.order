@@ -1,0 +1,3 @@
+drivers/usb/cdns3/cdns.o
+drivers/usb/cdns3/cdns3-pci-wrap.o
+drivers/usb/cdns3/cdnsp-pci.o

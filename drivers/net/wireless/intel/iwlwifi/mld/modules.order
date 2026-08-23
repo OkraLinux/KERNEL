@@ -1,0 +1,2 @@
+drivers/net/wireless/intel/iwlwifi/mld/iwlmld.o
+drivers/net/wireless/intel/iwlwifi/mld/tests/iwlmld-tests.o

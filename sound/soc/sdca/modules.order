@@ -1,0 +1,3 @@
+sound/soc/sdca/snd-soc-sdca.o
+sound/soc/sdca/snd-soc-sdca-class.o
+sound/soc/sdca/snd-soc-sdca-class-function.o

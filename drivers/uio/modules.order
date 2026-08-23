@@ -1,0 +1,4 @@
+drivers/uio/uio.o
+drivers/uio/uio_pci_generic.o
+drivers/uio/uio_hv_generic.o
+drivers/uio/uio_dfl.o

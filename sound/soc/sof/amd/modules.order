@@ -1,0 +1,6 @@
+sound/soc/sof/amd/snd-sof-amd-acp.o
+sound/soc/sof/amd/snd-sof-amd-renoir.o
+sound/soc/sof/amd/snd-sof-amd-rembrandt.o
+sound/soc/sof/amd/snd-sof-amd-vangogh.o
+sound/soc/sof/amd/snd-sof-amd-acp63.o
+sound/soc/sof/amd/snd-sof-amd-acp70.o

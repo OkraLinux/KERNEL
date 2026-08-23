@@ -1,0 +1,11 @@
+kernel/locking/locktorture.o
+kernel/printk/printk_ringbuffer_kunit_test.o
+kernel/rcu/rcutorture.o
+kernel/time/time_test.o
+kernel/trace/ring_buffer_benchmark.o
+kernel/bpf/preload/bpf_preload.o
+kernel/crash_core_test.o
+kernel/kheaders.o
+kernel/torture.o
+kernel/resource_kunit.o
+kernel/sysctl-test.o

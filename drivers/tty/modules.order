@@ -1,0 +1,13 @@
+drivers/tty/serial/8250/8250_dfl.o
+drivers/tty/serial/8250/8250_exar.o
+drivers/tty/serial/8250/8250_lpss.o
+drivers/tty/serial/8250/serial_cs.o
+drivers/tty/serial/arc_uart.o
+drivers/tty/serial/jsm/jsm.o
+drivers/tty/serial/sc16is7xx.o
+drivers/tty/serial/sc16is7xx_spi.o
+drivers/tty/serial/sc16is7xx_i2c.o
+drivers/tty/ipwireless/ipwireless.o
+drivers/tty/n_hdlc.o
+drivers/tty/nozomi.o
+drivers/tty/ttynull.o

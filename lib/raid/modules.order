@@ -1,0 +1,2 @@
+lib/raid/xor/tests/xor_kunit.o
+lib/raid/raid6/tests/raid6_kunit.o

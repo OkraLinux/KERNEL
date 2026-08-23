@@ -1,0 +1,7 @@
+drivers/net/wireless/intel/iwlwifi/iwlwifi.o
+drivers/net/wireless/intel/iwlwifi/dvm/iwldvm.o
+drivers/net/wireless/intel/iwlwifi/mvm/iwlmvm.o
+drivers/net/wireless/intel/iwlwifi/mvm/tests/iwlmvm-tests.o
+drivers/net/wireless/intel/iwlwifi/mld/iwlmld.o
+drivers/net/wireless/intel/iwlwifi/mld/tests/iwlmld-tests.o
+drivers/net/wireless/intel/iwlwifi/tests/iwlwifi-tests.o

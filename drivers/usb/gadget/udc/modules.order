@@ -1,0 +1,4 @@
+drivers/usb/gadget/udc/udc-core.o
+drivers/usb/gadget/udc/dummy_hcd.o
+drivers/usb/gadget/udc/max3420_udc.o
+drivers/usb/gadget/udc/cdns2/cdns2-udc-pci.o

@@ -1,0 +1,5 @@
+lib/kunit/kunit.o
+lib/kunit/kunit-test.o
+lib/kunit/platform-test.o
+lib/kunit/backtrace-suppression-test.o
+lib/kunit/kunit-example-test.o

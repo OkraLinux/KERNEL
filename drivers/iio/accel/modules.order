@@ -1,0 +1,16 @@
+drivers/iio/accel/adxl380.o
+drivers/iio/accel/adxl380_i2c.o
+drivers/iio/accel/adxl380_spi.o
+drivers/iio/accel/bmc150-accel-core.o
+drivers/iio/accel/bmc150-accel-i2c.o
+drivers/iio/accel/bmc150-accel-spi.o
+drivers/iio/accel/da280.o
+drivers/iio/accel/hid-sensor-accel-3d.o
+drivers/iio/accel/kxcjk-1013.o
+drivers/iio/accel/mma7660.o
+drivers/iio/accel/mma8452.o
+drivers/iio/accel/mxc4005.o
+drivers/iio/accel/mxc6255.o
+drivers/iio/accel/cros_ec_accel_legacy.o
+drivers/iio/accel/st_accel.o
+drivers/iio/accel/st_accel_i2c.o

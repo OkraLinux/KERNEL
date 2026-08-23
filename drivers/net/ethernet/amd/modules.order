@@ -1,0 +1,4 @@
+drivers/net/ethernet/amd/amd8111e.o
+drivers/net/ethernet/amd/pcnet32.o
+drivers/net/ethernet/amd/xgbe/amd-xgbe.o
+drivers/net/ethernet/amd/pds_core/pds_core.o

@@ -1,0 +1,4 @@
+drivers/hv/hv_vmbus.o
+drivers/hv/hv_utils.o
+drivers/hv/hv_balloon.o
+drivers/hv/mshv_root.o

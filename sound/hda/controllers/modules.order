@@ -1,0 +1,2 @@
+sound/hda/controllers/snd-hda-intel.o
+sound/hda/controllers/snd-hda-acpi.o
