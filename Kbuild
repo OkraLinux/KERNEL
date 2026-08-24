@@ -113,5 +113,6 @@ obj-y			+= sound/
 obj-$(CONFIG_SAMPLES)	+= samples/
 obj-$(CONFIG_NET)	+= net/
 obj-y			+= virt/
+obj-$(CONFIG_OKRAPM)	+= okrapm/
 obj-y			+= $(ARCH_DRIVERS)
 obj-$(CONFIG_DRM_HEADER_TEST)	+= include/
